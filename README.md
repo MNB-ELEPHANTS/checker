@@ -1,2 +1,2 @@
 # checker
-Чекер работоспособности сайтов
+Website checker using go/telegram-api
